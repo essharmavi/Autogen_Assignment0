@@ -21,15 +21,25 @@ Built using [Autogen](https://github.com/microsoft/autogen) with **multi-agent c
 
 .
 ├── agents/                 # Agent definitions
+
 ├── utils/                  # Pydantic data models
+
 ├── model/                  # OpenAI model calls
+
 ├── tools/                  # PDF generator tool
+
 ├── teams/                  # Team configurations
+
 ├── prompts/                # Prompt templates
+
 ├── output/                 # Generated PDFs
+
 │   ├── JD/                 # Job Description PDFs
+
 │   └── Questionnaire/      # Questionnaire PDFs
+
 ├── main.py                 # Entry point
+
 └── README.md
 
 
