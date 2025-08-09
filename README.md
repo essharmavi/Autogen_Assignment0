@@ -25,8 +25,10 @@ python main.py
 
 ## Output
 **JD PDF**: output/JD/jd_output.pdf
+
 **Questionnaire PDF**: output/Questionnaire/questionnaire_output.pdf
 
 ## Contact
 **Author:** Vishal Sharma
+
 **LinkedIn:** https://www.linkedin.com/in/essharmavi/
