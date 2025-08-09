@@ -10,6 +10,9 @@ An automated system that:
 Built using [Autogen](https://github.com/microsoft/autogen) with **multi-agent collaboration**.
 
 ---
+## Flowchart
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d4ce7d60-3761-45d4-9da0-7bd7ea711936" />
+
 
 ## How It Works
 - **JD Creation Team** → Generates JD → Saves as PDF.
